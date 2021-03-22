@@ -1,2 +1,2 @@
 
-Datawiz_Team = ['Vanya', 'Sasha', 'Yura', 'Nikita']
+datawiz_team = ['Vanya', 'Sasha', 'Yura', 'Nikita']
